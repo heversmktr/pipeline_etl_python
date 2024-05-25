@@ -20,3 +20,7 @@ streamlit run dashboard/app.py
 ### Sugestões de melhorias: 
  - Refinar o método de web scraping, para deixar de confundir o preço atual do produto com o valor da parcela 
  
+
+ ### Créditos 
+Esse projeto foi feito com base no que foi ensinado no Workshop __Pipeline ETL com Python do Zero__ ministrado por Luciano Vasconcelos https://www.linkedin.com/in/lucianovasconcelosf/ <br>
+Deixo os meus agradecimentos por ter compartilhado seu conhecimento de forma muito didática.
